@@ -1,5 +1,5 @@
-💼 Personal portfolio website showcasing my UI/UX design projects, creative case studies, and professional journey. Built to reflect my passion for digital experiences.
 # Ritu Raj – UI/UX Designer Portfolio
+💼 Personal portfolio website showcasing my UI/UX design projects, creative case studies, and professional journey. Built to reflect my passion for digital experiences.
 
 👋 Hi, I'm Ritu Raj – a creative UI/UX designer currently pursuing BCA (AR/VR) at Chandigarh University.
 
